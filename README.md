@@ -1,6 +1,6 @@
 <h1> Hello👋 I'm Mr. Rafi!</h1>
 
-<img src="https://github.com/mrrafi71/mrrafi71/blob/main/Mr%20Rafi-githubprofilebenner.png">
+<img src="https://github.com/mrrafi71/mrrafi71/blob/main/MrRafi-GitHub-profileImages.png">
 
 
 
