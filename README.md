@@ -18,7 +18,10 @@
   <li><b>Other Libraries:</b> Various tools to enhance development</li>
 </ul>
 
-  <h2 align="center">🛠️ My Tech Stack</h2>
+---
+
+
+  <h3 align="center">🛠️ My Tech Stack</h2>
   
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="120" height="40" style="border-radius: 10px;"/>
@@ -32,7 +35,6 @@
 </p>
 
 
-
  
 ---
 
@@ -42,8 +44,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrafi71&layout=compact&theme=radical)  
 
 
+
+
 ---
 
-⚡ **Fun Fact**: I'm always curious about how things work behind the scenes!  
+### Projects List: 
+#### [Project-1](https://lovely-semifreddo-f46488.netlify.app/)
 
+
+---
+⚡ **Fun Fact**: I'm always curious about how things work behind the scenes!  
 🚀 Let's connect and build amazing things together!  
