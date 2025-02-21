@@ -2,6 +2,12 @@
 
 <img src="https://github.com/mrrafi71/mrrafi71/blob/main/MrRafi-GitHub-profileImages.png">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrrafi71&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="width:200px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</p>
+
+
+
 
 
 
