@@ -1,9 +1,11 @@
 
 <img src="https://github.com/mrrafi71/mrrafi71/blob/main/MrRafi-GitHub-profileImages.png">
 
-Hi, I'm Rafi, a student at Hablu Programmers Team and a MERN Stack & Full Stack Web Application Developer from <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s' width='18'/> I am currently expanding my skills and continuing my learning journey.
+# Hi there <img src="https://user-images.githubusercontent.com/16977090/173189109-281b62f1-001d-4a55-a0aa-d6f9ba64a9f0.gif" width="35px" alt="hi">
 
-<h3>Contact With Me</h3>
+I'm Rafi, a student at <b>Hablu-Programmers</b> Team and a MERN Stack & Full Stack Web Application Developer from <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s' width='18'/> I am currently expanding my skills and continuing my learning journey.
+
+<h3>Contact with me!</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-rafi-6705602a6/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrrafiwebdev@gmail.com)
 
